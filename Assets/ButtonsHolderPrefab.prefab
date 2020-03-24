@@ -91,8 +91,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -266,8 +266,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 316, y: 0}
-  m_SizeDelta: {x: 90, y: 50}
+  m_AnchoredPosition: {x: 304, y: 0}
+  m_SizeDelta: {x: 70, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4561153126918153846
 CanvasRenderer:
@@ -443,7 +443,7 @@ PrefabInstance:
     - target: {fileID: 739651769072679421, guid: 31a6d08f3f73b1a44b23364a2679aad6,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -47
+      value: -38
       objectReference: {fileID: 0}
     - target: {fileID: 739651769072679421, guid: 31a6d08f3f73b1a44b23364a2679aad6,
         type: 3}
@@ -453,7 +453,7 @@ PrefabInstance:
     - target: {fileID: 739651769072679421, guid: 31a6d08f3f73b1a44b23364a2679aad6,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 625
+      value: 600
       objectReference: {fileID: 0}
     - target: {fileID: 739651769072679421, guid: 31a6d08f3f73b1a44b23364a2679aad6,
         type: 3}

@@ -39,7 +39,8 @@ public class ImageLoader : MonoBehaviour
 
         if (!string.IsNullOrEmpty(www.error))
         {
-            Debug.Log(www.error);
+            Debug.Log("TESTING");
+            Debug.LogError(www.error);
             url = null;
         }
 
